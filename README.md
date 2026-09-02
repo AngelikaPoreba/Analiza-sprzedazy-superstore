@@ -10,6 +10,7 @@ Wykorzystane narzędzia
 - Power BI - wizualizacja danych i przygotowanie dashboardu
 
 Zakres analizy
+
   W ramach projektu przeanalizowano:
   - sprzedaż i zysk według kategorii,
   - sprzedaż według regionów,
