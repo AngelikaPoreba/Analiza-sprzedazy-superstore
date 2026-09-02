@@ -2,6 +2,7 @@
 Analiza sprzedaży na podstawie danych Superstore z wykorzystaniem Excel, SQL i Power BI.
 
 Cel projektu
+
 Celem projektu była analiza danych sprzedażowych w celu identyfikacji najważniejszych wyników sprzedaży, zyskowności poszczególnych kategorii oraz trendów w czasie.
 
 Wykorzystane narzędzia
