@@ -2,18 +2,18 @@
 Analiza sprzedaży na podstawie danych Superstore z wykorzystaniem Excel, SQL i Power BI.
 
 
-Cel projektu
+# Cel projektu
 
 Celem projektu była analiza danych sprzedażowych w celu identyfikacji najważniejszych wyników sprzedaży, zyskowności poszczególnych kategorii oraz trendów w czasie.
 
 
-Wykorzystane narzędzia
+# Wykorzystane narzędzia
 - Microsoft Excel - czyszczenie i przygotowanie danych, tabele przestawne oraz analiza
 - SQL - filtrowanie, agregowanie i analiza danych
 - Power BI - wizualizacja danych i przygotowanie dashboardu
 
 
-Zakres analizy
+# Zakres analizy
 
   W ramach projektu przeanalizowano:
   - sprzedaż i zysk według kategorii,
@@ -25,7 +25,7 @@ Zakres analizy
   - wpływ poziomu rabatu na średni zysk.
 
  
- Najważniejsze wyniki
+ # Najważniejsze wyniki
   - Łączna sprzedaż wyniosła około 2,30 mln.
   - Łączny zysk wyniósł około 286,4 tys.
   - Kategoria Technology osiągnęła najwyższą sprzedaż oraz najwyższy zysk.
@@ -34,7 +34,7 @@ Zakres analizy
   - Analiza pokazuje, że przy ocenie wyników sprzedaży warto uwzględniać zarówno poziom sprzedaży, jak i zysk oraz poziom rabatów.
 
    
-   Pliki projektu
+  # Pliki projektu
   - Superstore.xlsx - analiza i przygotowanie danych w Excelu
   - analysis.sql - zapytania SQL wykorzystane podczas analizy
   - Superstore.pdf - dashboard przygotowany w Power BI
