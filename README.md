@@ -38,3 +38,4 @@ Celem projektu była analiza danych sprzedażowych w celu identyfikacji najważn
   - Superstore.xlsx - analiza i przygotowanie danych w Excelu
   - analysis.sql - zapytania SQL wykorzystane podczas analizy
   - Superstore.pdf - dashboard przygotowany w Power BI
+  - superstore2.xlsx.csv - dane wykorzystane do analizy SQL
